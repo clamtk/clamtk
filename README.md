@@ -1,9 +1,10 @@
-# Readme for clamtk
+# clamtk
 
-Note: This program is no longer maintained.
-https://github.com/dave-theunsub/clamtk/issues/163
-
-This README was last checked or updated on 20240330.
+> [!NOTE]
+> This is a community fork, as the original is no longer maintained.
+> See https://github.com/dave-theunsub/clamtk/issues/163
+>
+> If you want to help shape the future of this fork, please join the discussion at https://github.com/orgs/clamtk/discussions
 
 **Table of contents:**
 
@@ -21,31 +22,32 @@ This README was last checked or updated on 20240330.
 
 clamtk is a frontend for ClamAV (Clam Antivirus). It is intended to be an easy to use, light-weight, on-demand scanner for Linux systems.
 
-Although its earliest incarnations date to 2003, clamtk was first uploaded for distribution in 2004 to a rootshell.be account and finally to Sourceforge.net in 2005. At the end of 2013, it was moved to a Google Code page, then to Github, Gitlab, and Bitbucket. It is now 2024 and for some reason development is still going. In fact, February 2024 marks 20 years of activity (of being publicly available, that is).
+Although its earliest incarnations date to 2003, clamtk was first uploaded for distribution in 2004 to a rootshell.be account and finally to Sourceforge.net in 2005. At the end of 2013, it was moved to a Google Code page, then to Github, Gitlab, and Bitbucket. It is now 2026 and for some reason development is still going. In fact, February 2024 marks 20 years of activity (of being publicly available, that is).
 
 ## Contributing
 
 1. Report bugs or suggestions at the following:
 
-    <https://github.com/dave-theunsub/clamtk/issues>  
-    <https://gitlab.com/dave_m/clamtk/issues>  
-    <https://launchpad.net/clamtk>  
+    <https://github.com/clamtk/clamtk/issues>  
 
 2. Do you speak more than one language? See the [Launchpad page](https://translations.launchpad.net/clamtk).
 
-3. If you feel like it, "star" clamtk or its related projects at one or both of the following:
+3. If you feel like it, "star" clamtk:
 
-    <https://github.com/dave-theunsub/clamtk/>  
-    <https://gitlab.com/dave_m/clamtk/>  
+    <https://github.com/clamtk/clamtk/>  
 
 ### Important Links
 
 #### Official clamtk links
 
+<https://github.com/clamtk/clamtk/>  
+
+#### Originall clamtk links
+
 <https://github.com/dave-theunsub/clamtk/>  
 <https://gitlab.com/dave_m/clamtk/wikis/home>  
 <https://gitlab.com/dave_m/clamtk/>  
-<https://launchpad.net/clamtk>  
+<https://launchpad.net/clamtk>
 
 #### Related links
 
@@ -222,26 +224,22 @@ If you've quarantined files for later examination, you have the option to restor
 
 To add a right-click, context menu ability to send files and directories to the scanner, install the appropriate plugin. Links to the latest versions are available here:  
 
-<https://github.com/dave-theunsub/clamtk/>  
+<https://github.com/clamtk/clamtk/>  
 <https://gitlab.com/dave_m/clamtk/wikis/Downloads>  
 
-Here are the specific pages. Note that these are mirrored on Github as well.  
+Here are the specific pages.
 
 Gnome (Files file manager):  
-<https://github.com/dave-theunsub/clamtk-gnome>  
-<https://gitlab.com/dave_m/clamtk-gnome>  
+<https://github.com/clamtk/clamtk-gnome>  
 
 KDE (Dolphin file manager):  
-<https://github.com/dave-theunsub/clamtk-kde>  
-<https://gitlab.com/dave_m/clamtk-kde>  
+<https://github.com/clamtk/clamtk-kde>  
 
 XFCE (Thunar file manager):  
-<https://github.com/dave-theunsub/thunar-sendto-clamtk>  
-<https://gitlab.com/dave_m/thunar-sendto-clamtk>  
+<https://github.com/clamtk/thunar-sendto-clamtk>  
 
 Mate (Nemo file manager):  
-<https://github.com/dave-theunsub/nemo-sendto-clamtk>  
-<https://gitlab.com/dave_m/nemo-sendto-clamtk>  
+<https://github.com/clamtk/nemo-sendto-clamtk>  
 
 ## Troubleshooting
 
@@ -288,7 +286,7 @@ And there's also a Gtk4 in the works.
 
 ## Thank you
 
-Many people have contributed their time, energy, opinions, recommendations, and expertise to this software. I cannot thank them enough. Their names are listed in the credits file.
+Many people have contributed their time, energy, opinions, recommendations, and expertise to this software. We cannot thank them enough. Their names are listed in the credits file.
 
 Also a big thank you to:
 
@@ -296,8 +294,4 @@ Also a big thank you to:
 * Dag, without whom rpms would likely not exist
 * All the gtk2-perl and gtk3-perl folks for their time and effort
 * [Perlmonks](https://perlmonks.org)
-
-## Contact
-
-* Dave M, dave.nerd @gmail.com
-  [0xC81DF0FAC4AFEB22](https://davem.fedorapeople.org/RPM-GPG-KEY-DaveM-20230506)
+* @dave-theunsub, the original author
