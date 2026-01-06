@@ -162,7 +162,7 @@ Then you will need the minisig file for the program you are verifying.
 A link to it will be with the rest of the downloads.
 
 For this example:  
-<https://github.com/dave-ub/clamtk/releases/download/v6.17/clamtk-6.17.tar.xz.minisig>
+<https://github.com/dave-theunsub/clamtk/releases/download/v6.17/clamtk-6.17.tar.xz.minisig>
 
 Next, verify like so:  
 
@@ -227,23 +227,19 @@ To add a right-click, context menu ability to send files and directories to the 
 <https://github.com/clamtk/clamtk/>  
 <https://gitlab.com/dave_m/clamtk/wikis/Downloads>  
 
-Here are the specific pages. Note that these are mirrored on Github as well.  
+Here are the specific pages.
 
 Gnome (Files file manager):  
-<https://github.com/dave-ub/clamtk-gnome>  
-<https://gitlab.com/dave_m/clamtk-gnome>  
+<https://github.com/clamtk/clamtk-gnome>  
 
 KDE (Dolphin file manager):  
-<https://github.com/dave-ub/clamtk-kde>  
-<https://gitlab.com/dave_m/clamtk-kde>  
+<https://github.com/clamtk/clamtk-kde>  
 
 XFCE (Thunar file manager):  
-<https://github.com/dave-ub/thunar-sendto-clamtk>  
-<https://gitlab.com/dave_m/thunar-sendto-clamtk>  
+<https://github.com/clamtk/thunar-sendto-clamtk>  
 
 Mate (Nemo file manager):  
-<https://github.com/dave-ub/nemo-sendto-clamtk>  
-<https://gitlab.com/dave_m/nemo-sendto-clamtk>  
+<https://github.com/clamtk/nemo-sendto-clamtk>  
 
 ## Troubleshooting
 
